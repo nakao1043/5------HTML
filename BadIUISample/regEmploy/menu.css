@@ -1,0 +1,18 @@
+.container{
+  width: 350px;
+
+}
+
+ul{
+  list-style: none;
+}
+
+button{
+  margin-top: 30px;
+  width: 180px;
+}
+
+p{
+  margin-top: 20px;
+  margin-bottom: 0px;
+}

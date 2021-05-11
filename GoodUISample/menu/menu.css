@@ -1,0 +1,16 @@
+html,body{
+  height:100%;
+}
+.container{
+  height: auto;
+  width: 350px;
+  text-align: center;
+}
+
+div{
+}
+
+button{
+  margin-top: 30px;
+  width: 180px;
+}
