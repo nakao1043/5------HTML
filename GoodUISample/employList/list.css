@@ -1,0 +1,18 @@
+.container{
+  width: 350px;
+
+}
+
+button{
+  margin-top: 30px;
+  width: 180px;
+}
+
+tr{
+  border:solid 1px black;
+}
+
+p{
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
