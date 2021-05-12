@@ -14,8 +14,3 @@ html,body{
   transform: translateY(-50%) translateX(-50%); /*要素の大きさの半分ずつを戻す*/
   -webkit-transform: translateY(-50%) translateX(-50%);
 }
-
-button{
-  margin-top: 30px;
-  width: 180px;
-}
