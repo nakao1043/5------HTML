@@ -1,0 +1,46 @@
+.container{
+  width: 350px;
+}
+
+.floatButtons{
+  /* display: block; */
+  position: fixed;
+  /* left: 0px; */
+  bottom: 0px;
+  padding: auto;
+  width: 325px;
+}
+
+.btn-details{
+  margin:1px;
+}
+
+.btn{
+  background-color: #FFFFFF;
+}
+
+body{
+ background-color: #FFFFFF;
+}
+
+
+.label {
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+.form-control{
+    color: #000000 !important;
+    font-size: 25px;
+    border-left: 1px solid #CCC;
+    border-right: 1px solid #CCC;
+    border-top: 1px solid #CCC;
+    border-bottom: 1px solid #CCC;
+    margin-bottom: 10px;
+    outline: none;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+}
