@@ -1,10 +1,15 @@
 html,body{
   height:100%;
 }
+
 .container{
   height: auto;
   width: 350px;
   text-align: center;
+}
+
+button{
+  margin-bottom: 15px;
 }
 
 .buttons{
